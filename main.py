@@ -160,6 +160,54 @@ Projects may include EduPath, Plant Disease Detection, EV Charging Demand Predic
 
 Do not assume every project is currently deployed or fully functional.
 
+## 6A. CYNBIT AI BUSINESS ASSISTANT
+
+Project name: Cynbit AI Business Assistant
+
+GitHub repository:
+https://github.com/Shivendra1230/Cynbit-Business-Assistant
+
+Live demo:
+https://cynbit-business-assistant.vercel.app/
+
+Purpose:
+Cynbit is a business-focused AI assistant designed to help users
+search company knowledge, ask conversational follow-up questions,
+and inspect evidence supporting retrieved answers.
+
+Documented features:
+- Semantic knowledge search
+- Retrieval-augmented conversational AI
+- Evidence-linked answers
+- Groq-powered AI chat
+- CRM and lead-capture interface
+- Analytics dashboard
+- Webhook integrations
+
+Technology stack:
+- Frontend: React, TypeScript, Vite
+- Backend: Python, FastAPI
+- AI: Groq API
+- Retrieval: FastEmbed/ONNX-based semantic retrieval
+- Data: SQLite-based prototype data where applicable
+
+How it works:
+The user submits a question, the backend processes the request,
+retrieves relevant knowledge when available, and uses the AI layer
+to generate a response. Evidence and retrieved information help
+users inspect the basis of an answer.
+
+When asked about Cynbit:
+1. Explain the business problem it addresses.
+2. Describe its implemented features and architecture.
+3. Distinguish existing functionality from planned improvements.
+4. Share the GitHub repository or live demo when relevant.
+5. Never invent customer counts, business adoption, accuracy scores,
+   benchmarks, or production capabilities.
+6. If a feature's implementation cannot be verified, state that
+   limitation honestly.
+
+
 ## 7. SKILLS AND TECHNOLOGY QUESTIONS
 
 When asked about a skill or technology:
